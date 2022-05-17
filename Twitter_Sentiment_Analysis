@@ -1,0 +1,45 @@
+import tweepy
+auth = tweepy.OAuthHandler("jwc6IYlv3HEfIzcRhu4K7GUT1", "AWD0d3aRKt3HHfAPe3oV8xnq2MIvL1zFlWX0Sa0Xm1g6hmjdZX")
+auth.set_access_token("1335153296365875201-KGvNr9iJNqjITaz0lBL2STQfnMhqnT", "hpUawKvoOgKcDNzZ1ToDFrs4wbBWoFJveOintgGzrUx7e")
+api = tweepy.API(auth)
+tweets = api.home_timeline()
+for tweet in tweets:
+    print(tweet.text)
+    
+    
+    Output:-
+    🤣🤣 https://t.co/LOutrUPYOZ
+Can’t wait to see you all…. 18th May 🧿✈️ https://t.co/6aBkk8CMIC
+I am still spell bound by the visuals brother @KicchaSudeep Happy to present the Hindi version of #VikrantRona the… https://t.co/QISKIKXhwq
+memories ❤️🧿… #Throwback 
+.
+.
+.
+
+@JourneyLabel 
+@TheLeelaHotels 
+
+#TheLeelaGoa #TheLeela #MyLeelaGoa #LeelaMoments… https://t.co/XxjmWBSUTE
+I wanna know please 👻 https://t.co/N06KIBBErx
+When🤩 https://t.co/P0EYPqyg2z
+Yes………. Guess guesss…… https://t.co/h7qTO6sOTD
+Shooting commences for my new film …. https://t.co/wEQmCmayRD
+Wishing team #Dhaakad the very best #KanganaRanaut  
+@rampalarjun #SohelMaklai
+https://t.co/zqjgHNzPfe
+Sending my heartfelt condolences to Ayush and his entire family on the loss of his grandfather Shri Sukhram Ji toda… https://t.co/cAghrfSSUZ
+Happy to launch the trailer of #MajorTheFilm. This looks outstanding. All the best to the team.
+
+#MajorTrailer
+-… https://t.co/YszWSqld5u
+What do you see? https://t.co/OACl3PVnxw
+Unconditional love &amp; acceptance.
+Happy Mother’s Day! https://t.co/ILa7kUESP4
+My Village needs #NOFILTER https://t.co/jjU6yg34Qv
+Visited My ancestral temple Of  Goddess Durga ❤️🙏🏼….. sending you blessings https://t.co/A0gNvLGyZR
+Is eid ka swagat karein, ek nayi khushboo ke sath. On popular demand presenting 1965 Oud.
+A https://t.co/q6ImMN9JHQ… https://t.co/bEzdLlscLn
+Congratulations @HimeshMelodies #AmritaKak @Ahmedshabbir20 #haiderkhan #shamiraah on #ORanjhana 
+It’s a beautiful t… https://t.co/49OQXZXERA
+🥕 https://t.co/lgxVtNOoU0
+Peace out ✌🏼 https://t.co/fTLFjCyCKq
